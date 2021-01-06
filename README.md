@@ -8,8 +8,7 @@
 | 操作系统 |                        macOS Big Sur                         |
 |  处理器  |                    英特尔 酷睿 i5 - 9500T                     |
 |   内存   |                             16GB                             |
-|  硬盘1   |                           WD SN750                           |
-|  硬盘2   |                       ST2000LM007 2TB                        |
+|   硬盘   |                           WD SN750                           |
 |   显卡   |                    Intel HD Graphics 630                     |
 |  显示器  |                              无                              |
 |   声卡   |                        Realtek ALC235                        |
