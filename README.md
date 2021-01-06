@@ -35,8 +35,6 @@
   - 显示设备
     - 预指派内存大小：`64MB` (*DVMT* pre-allocated memory)
   
-  ![BIOS-DVMT](./ScreenShots/BIOS-DVMT.png)
-  
   - ATA设备菜单：
     - `配置SATA为` -> `AHCI`
   
