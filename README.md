@@ -13,6 +13,7 @@
 |  显示器  |                              无                              |
 |   声卡   |                        Realtek ALC235                        |
 |   网卡   |                              无                              |
+|  BIOS版本|                           M1UKT5FA                           |
 
 ## 更新日志
 
@@ -42,7 +43,8 @@
 
 ## 备注：
 
-该配置文件默认CFG LOCK已解锁，请使用Tools中的CFGLock.efi进行CFGLock解锁操作，否则无法正常安装
+该配置文件默认CFG LOCK已解锁，请使用Tools中的CFGLock.efi进行CFGLock解锁操作  
+解锁完成后请使用VerifyMsrE2.efi进校验，建议每次修改BIOS设置后都校验一次，如果解锁失效请重新进行解锁
 ## 接口说明
 
 ![M920Q接口说明](./M920Q接口说明.png)
