@@ -33,7 +33,8 @@
   - 安全启动 -> `关闭`  (*Disable Secure Boot*)
   
 - 设备：
-  - 显示设备
+  - 显示设备  
+    - IGPU
     - 预指派内存大小：`64MB` (*DVMT* pre-allocated memory)
   
   - ATA设备菜单：
