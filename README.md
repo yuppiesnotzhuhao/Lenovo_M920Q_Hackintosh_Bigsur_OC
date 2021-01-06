@@ -47,7 +47,8 @@
 
 ![M920Q接口说明](./M920Q接口说明.png)
 -USB安装如图所示位置进行定制，蓝牙已内建  
--我的设备只包含原始的一个DP口和一个HDMI口，如果你是定制版本的M920Q包含多个DP/HDMI接口，请使用默认的DP/HDMI接口进行安装，否则可能无显示输出
+-我的设备只包含一个DP接口和一个HDMI接口，如果你是定制版本的M920Q包含多个DP/HDMI接口  
+ 请使用默认的DP/HDMI接口进行安装，否则可能无显示输出
 
 ##下载地址
 https://github.com/yuppiesnotzhuhao/Lenovo_M920Q_Hackintosh_Bigsur_OC/releases
