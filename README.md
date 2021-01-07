@@ -43,7 +43,10 @@
   - 高级菜单  
     - Intel Manageability -> `关闭`  
     - Intel SXG -> `关闭`  
-    - Intel SIPP 支持 -> `关闭`
+    - Intel SIPP 支持 -> `关闭`  
+  - 启动菜单  
+    - 兼容模块 -> `关闭`  
+    - 启动方式 -> `UEFI`
   
 - 其它参数默认即可
 
