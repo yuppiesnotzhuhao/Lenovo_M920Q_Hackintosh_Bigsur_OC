@@ -38,7 +38,12 @@
     - 预指派内存大小：`64MB` (*DVMT* pre-allocated memory)
   
   - ATA设备菜单：
-    - `配置SATA为` -> `AHCI`
+    - `配置SATA为` -> `AHCI`  
+
+  - 高级菜单  
+    - Intel Manageability -> `关闭`  
+    - Intel SXG -> `关闭`  
+    - Intel SIPP 支持 -> `关闭`
   
 - 其它参数默认即可
 
