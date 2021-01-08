@@ -33,9 +33,10 @@
   - 安全启动 -> `关闭`  (*Disable Secure Boot*)
   
 - 设备：
-  - 显示设备  
-    - IGPU
-    - 预指派内存大小：`64MB` (*DVMT* pre-allocated memory)
+  - 显示菜单  
+    - 选择有效显示：IGD  
+    - 预指派内存大小：`64MB` (*DVMT* pre-allocated memory)  
+    - 全部显示内存：最大
   
   - ATA设备菜单：
     - `配置SATA为` -> `AHCI`  
