@@ -1,4 +1,5 @@
-# Lenovo_M920Q_Hackintosh_Bigsur_OC
+# Lenovo_M920Q_Hackintosh_Bigsur_OC  
+<font color="red">**如果本项目对你的工作生活提供到了帮助，欢迎进行捐赠，我会持续进行更新，也欢迎提issues反馈信息，希望可以帮助到更多的人**</font>
 
 ## 电脑配置
 
@@ -20,6 +21,7 @@
 - 01-09-2021  
   - 增加CPU变频  
   - 增加博通无线、蓝牙驱动
+  - 增加捐赠信息
 
 - 01-06-2021
   - OpenCore `v0.6.5`
