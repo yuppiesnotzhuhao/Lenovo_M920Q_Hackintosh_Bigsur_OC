@@ -12,7 +12,7 @@
 |   显卡   |                    Intel HD Graphics 630                     |
 |  显示器  |                              无                              |
 |   声卡   |                        Realtek ALC235                        |
-|   网卡   |                              无                              |
+| 无线网卡  |                         BCM94360Z4                           |
 |  BIOS版本|                           M1UKT5FA                           |
 
 ## 更新日志
