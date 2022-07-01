@@ -67,7 +67,7 @@
 在OC的引导中按下空格，选CFGLock  
 CFGLOCK.efi会自动找到CFG LOCK的参数，如Offset: 003E，值为1，1即可开启，输入Y，即可改为0，即关闭。然后重启即可。  
 解锁完成后请使用VerifyMsrE2.efi进校验，建议每次修改BIOS设置后都校验一次，如果解锁失效请重新进行解锁  
-需要注意的是，如果BIOS恢复出厂默认、更新BIOS版本、OC的RESET NVRAM指令，都会需使CFG LOCK修改恢复，这时需要再用CFGLOCK.efi修改一次。  
+需要注意的是，如果BIOS恢复出厂默认、更新BIOS版本、OC的RESET NVRAM指令，都会使CFG LOCK修改恢复，这时需要再用CFGLOCK.efi修改一次。  
 
 ## 接口说明
 ![M920Q接口说明](./M920Q接口说明.png)
