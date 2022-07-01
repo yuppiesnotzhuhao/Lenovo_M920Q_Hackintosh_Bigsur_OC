@@ -77,6 +77,4 @@ CFGLOCK.efi会自动找到CFG LOCK的参数，如Offset: 003E，值为1，1即�
 ## 捐赠信息  
   如果本项目对你的工作生活提供到了帮助，欢迎进行捐赠，我会持续进行更新，也欢迎提issues反馈信息，希望可以帮助到更多的人  
   
-![支付宝](./Alipay.JPG)
-![微信](./WeChatPay.JPG)
 [回到顶部](#readme)
